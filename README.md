@@ -15,6 +15,8 @@
 This data analysis project aims to provide insights into understanding patterns in medical conditions across a specified timeframe. By examining the data, we aim to pinpoint the medical condition with the highest occurrence, focusing on the years 2018 to 2023. This particular insight holds significance as it provides a key indicator of the predominant health concern within our population during that period. 
 
 
+<img width="895" alt="Tableau Dashboard" src="https://github.com/Jalilah0221/Medical-Condition-Data-Analysis/assets/150988108/699cc46d-e5db-461f-8e0b-b515b338b30d">
+
 ### Data Sources 
 
 Patient data: The primary dataset used for this analysi is the "patient_dataset.csv" file, containing detailed information about each patient and medical condition over a period of time. 
@@ -23,6 +25,7 @@ Patient data: The primary dataset used for this analysi is the "patient_dataset.
 
 - BigQuery Google Cloud SQL- Data Analysis - Data Extraction 
 - Excel - Data Cleaning - Reports
+- Tableau - Reports
 
   
 
