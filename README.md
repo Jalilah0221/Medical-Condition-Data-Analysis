@@ -21,7 +21,7 @@ Patient data: The primary dataset used for this analysi is the "patient_dataset.
 ### Tools
 
 - BigQuery Google Cloud SQL- Data Analysis - Data Extraction 
-- Excel - Data Cleaning - Data Visualization
+- Excel - Data Cleaning - Reports
 
   
 
