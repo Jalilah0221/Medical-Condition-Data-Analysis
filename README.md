@@ -14,6 +14,7 @@
 
 This data analysis project aims to provide insights into understanding patterns in medical conditions across a specified timeframe. By examining the data, we aim to pinpoint the medical condition with the highest occurrence, focusing on the years 2018 to 2023. This particular insight holds significance as it provides a key indicator of the predominant health concern within our population during that period. 
 
+
 ### Data Sources 
 
 Patient data: The primary dataset used for this analysi is the "patient_dataset.csv" file, containing detailed information about each patient and medical condition over a period of time. 
@@ -39,7 +40,14 @@ EDA involved exploring the patient data to answer key questions, such as:
 
 - Among the patients in our dataset, which specific medical condition had the highest frequency or occurrence between the year of 2018 -2023?
 - Which year had the highest Asthma occurrence?
+  
+<img width="434" alt="Bar graph- Med_Con_Freq" src="https://github.com/Jalilah0221/Medical-Condition-Data-Analysis/assets/150988108/98277cc2-b54c-4f98-aefd-197d66f9d169">
 
+<img width="724" alt="Pivot Table " src="https://github.com/Jalilah0221/Medical-Condition-Data-Analysis/assets/150988108/ac4f0189-7b25-40f4-a11d-69afa78685bf">
+
+<img width="465" alt="Line graph 1" src="https://github.com/Jalilah0221/Medical-Condition-Data-Analysis/assets/150988108/17b0ed7e-f87a-4d5b-bc6b-a0a2926e174d">
+
+<img width="410" alt="Line graph 2" src="https://github.com/Jalilah0221/Medical-Condition-Data-Analysis/assets/150988108/64f0ebe3-97e1-4bd6-95ff-22075b8fa7ba">
 
 ### Data Analysis 
 
